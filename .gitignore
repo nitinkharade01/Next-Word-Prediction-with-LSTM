@@ -1,0 +1,6 @@
+*.h5
+*.pickle
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
